@@ -1,0 +1,81 @@
+div{
+    background-color: coral;
+    text-align: center;
+    position: fixed;
+    width:100%;
+    top: 0;
+}
+.one{
+    position: absolute;
+    top:75%;
+    width: 400px;
+    height: 350px;
+    z-index: -1;
+    left: 35%;
+    border-radius: 10px;
+}
+.two{
+    position: absolute;
+    height:250px;
+    width:250px;
+    z-index: -1;
+    left:10px;
+    top:18%;
+}
+.three{
+    position:absolute;
+    height:250px;
+    width:250px;
+    right:10px;
+    top:18%;
+    z-index:-1
+}
+.four{
+    position:absolute;
+    height:250px;
+    width:250px;
+    z-index: -1;
+    top:62%;
+    left:10px;
+}
+.five{
+    position: absolute;
+    height:250px;
+    width:250px;
+    z-index: -1;
+    top:62%;
+    right:10px;
+
+}
+.six{
+    position:absolute;
+    height:250px;
+    width:250px;
+    z-index: -1;
+    top:106%;
+    right:10px;
+}
+.seven{
+    position:absolute;
+    height:250px;
+    width:250px;
+    top:106%;
+    left:10px;
+    z-index: -1;
+}
+.eight{
+    position:absolute;
+    height:250px;
+    width:250px;
+    z-index: -1;
+    top:150%;
+    right:10px;
+}
+.nine{
+    position:absolute;
+    height:250px;
+    width:250px;
+    top:150%;
+    left:10px;
+    z-index: -1;
+}
